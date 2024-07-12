@@ -5,7 +5,7 @@
 	#address-cells = <0x02>;
 	#size-cells = <0x02>;
 	compatible = "amlogic,x7-5g\0amlogic,s905l2\0amlogic,meson-gxl";
-	model = "Amlogic Meson GXL (S905L2) X7 5G Tv Box";
+	model = "Amlogic Meson GXL (S905L2)  MGV2000 ";
 
 	aliases {
 		mmc0 = "/soc/apb@d0000000/mmc@70000";
